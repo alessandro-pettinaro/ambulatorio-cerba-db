@@ -1,5 +1,12 @@
 # Ambulatorio Cerba DB
 
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-336791)
+![InnoDB](https://img.shields.io/badge/Engine-InnoDB-F29111)
+![Normalization](https://img.shields.io/badge/Normalization-BCNF-success)
+![Status](https://img.shields.io/badge/Status-Completato-brightgreen)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
+
 Base di dati relazionale (MySQL / InnoDB) per la gestione di un laboratorio di analisi del sangue. Il sistema modella l'intero flusso operativo dell'ambulatorio: dall'arrivo del paziente alla prenotazione degli esami, dall'esecuzione del prelievo all'emissione del referto firmato dal medico, fino alla gestione del magazzino dei prodotti sanitari e degli ordini ai fornitori.
 
 Progetto sviluppato per il corso di **Basi di Dati** — Università Politecnica delle Marche, A.A. 2023/2024 (Gruppo 1707).
